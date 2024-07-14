@@ -10,6 +10,7 @@ This is a starter kit/template for building web applications using Express.js wi
 
 ### Installation
 
+### Step-1 : Cloning the repository
  Clone the repository and rename the directory to your project name:
    ```bash
    git clone https://github.com/Sooraj-Rao/express-typescript-starter-code.git <new-project-name> && cd <new-project-name>
@@ -20,10 +21,10 @@ This is a starter kit/template for building web applications using Express.js wi
 git clone https://github.com/Sooraj-Rao/express-typescript-starter-code.git express-app && cd express-app
 ```
 
-### Install dependencies
+### Step-2 : Install dependencies
 npm install or npm i
 
-### Start the development server
+### Step-3 : Start the development server
 npm run dev
 
 ### The server will start at <span style="background-color: #f0f0f0;padding:10px;border-radius:5px">http://localhost:3000</span>
