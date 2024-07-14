@@ -29,7 +29,6 @@ npm run dev
 
 ### The server will start at <span style="background-color: #f0f0f0;padding:10px;border-radius:5px">http://localhost:3000</span>
 
-### License
 
 ## License
 
