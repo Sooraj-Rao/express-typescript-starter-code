@@ -27,7 +27,7 @@ npm install or npm i
 ### Step-3 : Start the development server
 npm run dev
 
-### The server will start at `http://localhost:3000`
+The server will start at `http://localhost:3000`
 
 
 ## License
