@@ -27,7 +27,7 @@ npm install or npm i
 ### Step-3 : Start the development server
 npm run dev
 
-### The server will start at <span style="background-color: #f0f0f0;padding:10px;border-radius:5px">http://localhost:3000</span>
+### The server will start at `http://localhost:3000`
 
 
 ## License
