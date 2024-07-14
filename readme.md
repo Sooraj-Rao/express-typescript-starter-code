@@ -22,10 +22,19 @@ git clone https://github.com/Sooraj-Rao/express-typescript-starter-code.git expr
 ```
 
 ### Step-2 : Install dependencies
-npm install or npm i
+```bash
+npm install 
+```
+or 
+```bash
+npm i 
+```
+
 
 ### Step-3 : Start the development server
+```bash
 npm run dev
+```
 
 The server will start at `http://localhost:3000`
 
