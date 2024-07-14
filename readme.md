@@ -16,4 +16,5 @@ This is a starter kit/template for building web applications using Express.js wi
 
 ```
 ### Here is the example
+```bash
 git clone https://github.com/Sooraj-Rao/express-typescript-starter-code.git express-app && cd express-app
